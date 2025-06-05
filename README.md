@@ -4,7 +4,7 @@
 
 ## 💡 Sobre o Projeto
 
-O **Plan It Agenda** é um sistema desktop desenvolvido em Java (Swing) que ajuda profissionais da área de estética — como Nail Designers — a gerenciarem seus clientes, serviços e agendamentos. O sistema oferece visualização de agenda, exportação de relatórios e controle por perfil de usuário (Administrador e Funcionário).
+O **Plan It Agenda** é um sistema desktop desenvolvido em Java (Swing) que ajuda profissionais da área de estética — como Nail Designers, Cabelereiras, Designers de Sobrancelha, entre outras — a gerenciarem seus clientes, serviços e agendamentos. O sistema oferece visualização de agenda, exportação de relatórios e controle por perfil de usuário (Administrador e Funcionário).
 
 Projeto acadêmico para a disciplina de Desenvolvimento de Software Desktop (UniRios - Sistemas de Informação).
 
