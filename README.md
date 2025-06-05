@@ -8,6 +8,8 @@ O **Plan It Agenda** é um sistema desktop desenvolvido em Java (Swing) que ajud
 
 Projeto acadêmico para a disciplina de Desenvolvimento de Software Desktop (UniRios - Sistemas de Informação).
 
+![image](https://github.com/user-attachments/assets/bcea990f-982b-4fd9-99fc-0705bac55fe1)
+
 ---
 
 ## 🛠️ Tecnologias Utilizadas
